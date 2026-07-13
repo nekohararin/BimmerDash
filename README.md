@@ -1,4 +1,4 @@
-# 🏎️ BimmerDash: Next-Gen iOS OBD-II Performance Monitor
+# BimmerDash: iOS OBD-II Performance Monitor
 
 Transform your iPhone into a high-performance, game-inspired digital cockpit. **BimmerDash** is a premium OBD-II vehicle monitoring app specifically designed and optimized for Bimmer enthusiasts running F-Chassis tuning platforms and B-Series engine configurations.
 
@@ -6,6 +6,26 @@ Built natively with **SwiftUI** and the **Core Bluetooth** framework under a cle
 
 ---
 
+## 📱 App Screenshots
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/500b2c29-e4af-4c7c-851f-bbd0891ae70a" width="250" alt="BimmerDash Dashboard UI"/>
+      <br><sub><b>Real-time Dashboard</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/f7845dbf-9b3e-44db-a79e-15d4a2f38ab8" width="250" alt="BimmerDash Metrics List"/>
+      <br><sub><b>Performance Metrics</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/7d5f1768-67e1-486f-998d-ecc33e5ab974" width="250" alt="BimmerDash Settings"/>
+      <br><sub><b>Connection Settings</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
 ## 🔥 Key Features
 
 ### 🛠️ Tailored for F-Chassis & B-Series ECU Platforms
