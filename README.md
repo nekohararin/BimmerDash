@@ -1,3 +1,53 @@
-# BimmerDash
+# 🏎️ BimmerDash: Next-Gen iOS OBD-II Performance Monitor
 
-Ask anything in Issues~
+Transform your iPhone into a high-performance, game-inspired digital cockpit. **BimmerDash** is a premium OBD-II vehicle monitoring app specifically designed and optimized for Bimmer enthusiasts running F-Chassis tuning platforms and B-Series engine configurations.
+
+Built natively with **SwiftUI** and the **Core Bluetooth** framework under a clean **MVVM architecture**, BimmerDash delivers ultra-low latency data rendering, allowing you to monitor your vehicle's vitals in real time with high-fidelity graphics.
+
+---
+
+## 🔥 Key Features
+
+### 🛠️ Tailored for F-Chassis & B-Series ECU Platforms
+Unlike generic, one-size-fits-all OBD2 apps, BimmerDash is deeply optimized for the unique F-Chassis electronics and B-Series (as well as select N-Series) engine control units (ECU). This specialization ensures highly accurate data logging and faster PID polling rates for the ultimate Bimmer performance experience.
+
+### 📊 15+ Vital Performance Metrics
+Keep a close eye on your engine health and track track-ready metrics simultaneously, including:
+* **Engine Status:** Engine RPM & Real-Time Vehicle Speed
+* **Boost Control:** Turbo Boost Pressure
+* **Thermal Management:** Engine Oil Temperature & Coolant Temperature
+* **Power & Intake:** Throttle Position
+* **Electrical System:** Battery Voltage
+* *...and many other critical data points to help you manage thermal efficiency and power delivery.*
+
+---
+
+## 🔌 Hardware & Connection Requirements
+
+To ensure a seamless real-time data streaming experience, please review the hardware requirements below:
+
+1. **Required Hardware:** This app **REQUIRES** an external, commercially available **Bluetooth 4.0 (BLE / Bluetooth Low Energy)** OBD-II adapter (such as *vLinker BM+*, *OBDLink CX*, or any standard BLE-compatible ELM327 / OBD2 dongle).
+2. **Unsupported Hardware:** Traditional Bluetooth 2.0 / 3.0 (legacy non-BLE dongles) and pure Wi-Fi-based OBD adapters are **NOT** supported due to iOS core limitations.
+3. **💡 Quick Connection Tip:** Do **NOT** attempt to pair the device in iPhone System Settings. Simply ensure your iPhone's Bluetooth is turned on, plug the adapter into your car's OBD-II port, and the connection will be handled seamlessly directly inside BimmerDash.
+
+---
+
+## 🎁 Early Adopters & Feedback Campaign
+BimmerDash is an independent hobby project developed by a fellow Bimmer enthusiast. I am currently looking for **50 Early Adopters** to help me test, refine, and continuously improve the app.
+
+If you are interested in getting a **Free Lifetime VIP Promo Code**, please visit our official community thread in the Issues section:
+👉 **[Join the Early Adopter Program & Get Lifetime VIP Here!](https://github.com/nekohararin/BimmerDash/issues/1)**
+
+Your feedback, bug reports, and feature suggestions mean the world to me. If you find this project cool, please consider dropping a **⭐ Star** to support the development!
+
+---
+
+## ⚠️ Disclaimer & Safety Information
+* **Drive Safely:** Do not attempt to interact with or configure the app while the vehicle is in motion. Focus on the road.
+* **Reference Only:** The data displayed by this app is for performance monitoring and enthusiast reference only. It should not replace professional factory diagnostic tools for vehicle maintenance or mechanical troubleshooting.
+* **Trademarks:** All vehicle platform codes, model references, and related terms are properties of their respective registered owners. This app is an independent, third-party enthusiast monitoring tool and is not affiliated with any vehicle manufacturer.
+
+---
+
+## 📄 Legal & Terms
+* **Terms of Use (EULA):** [Standard Apple EULA](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
